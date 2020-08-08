@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Languages
+_Programming Languages_: **Java**, Python, Groovy.
+_Human Languages_: **English, Spanish, Portuguese**, French, Italian.

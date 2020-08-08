@@ -1,0 +1,4 @@
+- Italy :it:
+- Pizza :pizza:
+- Pasta :spaghetti:
+- Chinese Food :shallow_pan_of_food:

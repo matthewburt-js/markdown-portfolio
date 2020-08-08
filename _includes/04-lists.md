@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Italy :it:
+- Pizza :pizza:
+- Pasta :spaghetti:
+- Chinese Food :shallow_pan_of_food:
